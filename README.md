@@ -15,7 +15,7 @@ fight waves of enemies and bosses get powerups and try not to die lol
 ### run it
 ```bash
 pip install pygame
-python main.py
+python game.py
 ```
 
 make sure the Images and fonts folders are there or stuff will break
